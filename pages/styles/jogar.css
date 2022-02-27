@@ -1,0 +1,15 @@
+html,body {
+    overflow: hidden !important;
+    background-color:aqua;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+* { padding: 0; margin: 0; }
+
+@font-face {
+    font-family: font1;
+    src: url('../../font.ttf');
+    font-weight:400;
+    font-weight:normal;
+  }

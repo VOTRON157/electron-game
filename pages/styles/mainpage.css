@@ -1,0 +1,14 @@
+html,body {
+    overflow: hidden !important;
+    background-color: blueviolet;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.credits { 
+    font-family: 'Press Start 2P';
+    height: 50px;
+    width: 100px;
+    margin-left: 46%;
+    margin-top: 25%;
+}
