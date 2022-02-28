@@ -10,7 +10,4 @@ const createWindow = () => {
 }
 app.whenReady().then(() => {
   createWindow()
-})
-
-const { readdirSync, lstatSync } = require('fs')
-
+});
